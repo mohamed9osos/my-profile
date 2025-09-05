@@ -5,6 +5,7 @@ let img_four = document.querySelector('.img_four')
 let img_five = document.querySelector('.img_five')
 let img_six = document.querySelector('.img_six')
 let btn = document.querySelector('.btn')
+let me = document.querySelector('.me')
 
 
 
@@ -29,6 +30,10 @@ img_six.addEventListener('click', () => {
 btn.addEventListener('click', () => {
     window.open('https://wa.me/+905365486607', "_blank", "")
 })
+me.addEventListener('click', () => {
+    window.open('https://mohamed9osos.github.io/my-profile/', "_blank", "")
+})
+
 
 
 
