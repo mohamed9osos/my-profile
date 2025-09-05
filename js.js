@@ -31,10 +31,11 @@ btn.addEventListener('click', () => {
     window.open('https://wa.me/+905365486607', "_blank", "")
 })
 me.addEventListener('click', () => {
-    window.open('https://mohamed9osos.github.io/my-profile/', "_blank", "")
+    window.open('https://mohamed9osos.github.io/my-profile/')
 })
 
 
 
 
 // https://wa.me/+905365486607
+
