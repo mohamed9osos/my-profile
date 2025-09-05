@@ -47,6 +47,10 @@ ul li a:hover{
     margin: 10px;
 }
 
+.sec1 .header h1{
+ cursor: pointer; 
+}
+
 /* .animate{
     position: relative;
     background-color: #1ccc38;
@@ -468,4 +472,5 @@ ul li a:hover{
 
 
 /* ////start sec5/////// */
+
 
